@@ -1,0 +1,14 @@
+{
+  "name": "monkey-web",
+  "version": "1.0.0",
+  "description": "monkey-tutorial-miso",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "diego-santamaria",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.15.1"
+  }
+}
